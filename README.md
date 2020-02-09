@@ -2,4 +2,4 @@
 
 # Usage:
 
-# python mobilenet_ssd.py --image chase.jpg
+# python mobilenet_ssd.py --image <Image>
