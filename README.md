@@ -2,4 +2,4 @@
 
 # Usage:
 
-# python mobilenet_ssd.py --image <Image>
+# python mobilenet_ssd.py --image TrafficCars.jpg
